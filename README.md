@@ -49,7 +49,6 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-StackOverflow, GeeksforGeeks
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 I had some experience with web development prior to this submission, but this submission introduced new concepts such as adding sound on click, so that portion was definitely the most challenging and interesting, since it was something I hadn’t seen before. Initially I was stumped, because I didn’t know of any CSS or Javascript functionality to play sound. I was able to overcome this issue with the help of the CodePath resources. Through CodePath, I was able to learn about the AudioContext library and how to utilize it to play set frequencies. CodePath provided a code snippet to play sound, and by working backwards with that code snippet, I was able to gain a better understanding of the AudioContext library.
