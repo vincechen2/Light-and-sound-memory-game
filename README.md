@@ -43,7 +43,8 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ![](gif2-link-here)![ezgif com-gif-maker-13](https://user-images.githubusercontent.com/68205883/163725142-bb3a0ab8-8971-427d-a9a8-7f2f4490f512.gif)
 
-![](gif3-link-here)
+![](gif3-link-here)![ezgif com-gif-maker-14](https://user-images.githubusercontent.com/68205883/163726080-777a7b3a-c360-4b64-99cf-150e78d9ae66.gif)
+
 ![](gif4-link-here)
 
 ## Reflection Questions
@@ -51,13 +52,13 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 StackOverflow, GeeksforGeeks
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+I had some experience with web development prior to this submission, but this submission introduced new concepts such as adding sound on click, so that portion was definitely the most challenging and interesting, since it was something I hadn’t seen before. Initially I was stumped, because I didn’t know of any CSS or Javascript functionality to play sound. I was able to overcome this issue with the help of the CodePath resources. Through CodePath, I was able to learn about the AudioContext library and how to utilize it to play set frequencies. CodePath provided a code snippet to play sound, and by working backwards with that code snippet, I was able to gain a better understanding of the AudioContext library.
    
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-
+I am interested in the lower-level details of how Javascript libraries are able to provide functionalities such as playing sound. I also want to learn more about best practices in web development, because seeing as there are many ways to achieve the same thing in web development, I would like a standard to follow when coding. 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-
-
+If I had more time to work on this project, I would like to add additional features such as a difficulty slider, and a leaderboard. To implement the leaderboard, a backend would be needed, but I believe the project would be far more interesting if you’re able to compete against other users. To implement the leaderboard feature, many other features would also have to be implemented. For instance, users would have to be able to create profiles, and a way to calculate score would have to be implemented. With the addition of user profiles, I would also like to implement a separate page that allows a user to view their personal stats. 
 
 
 ## Interview Recording URL Link
