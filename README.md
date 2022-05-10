@@ -60,9 +60,7 @@ I am interested in the lower-level details of how Javascript libraries are able 
 If I had more time to work on this project, I would like to add additional features such as a difficulty slider, and a leaderboard. To implement the leaderboard, a backend would be needed, but I believe the project would be far more interesting if you’re able to compete against other users. To implement the leaderboard feature, many other features would also have to be implemented. For instance, users would have to be able to create profiles, and a way to calculate score would have to be implemented. With the addition of user profiles, I would also like to implement a separate page that allows a user to view their personal stats. 
 
 
-## Interview Recording URL Link
 
-[My 5-minute Interview Recording] https://drive.google.com/file/d/1Xa51ziBZZTakVgzoe9jHpZr97UKzv1wD/view?usp=sharing
 
 
 ## License
